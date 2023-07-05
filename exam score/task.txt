@@ -1,0 +1,14 @@
+Write a program that asks the user for the results of the Unified State Exam for three exams and checks whether he has entered the institute or not. 
+The sum of passing points to the institute is 275.
+
+Example of how the program works:
+
+Enter the result of the first exam:
+91
+Enter the result of the second exam:
+36
+Enter the result of the third exam:
+56
+Total passing points: 275
+Number of points scored: 183
+You didn't get in.
