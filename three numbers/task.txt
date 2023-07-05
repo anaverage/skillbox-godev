@@ -1,0 +1,11 @@
+Write a program that asks the user for three numbers and tells if there is a number greater than five among them.
+
+Example of how the program works:
+
+Enter the first number:
+3
+Enter the second number:
+6
+Enter the third number:
+2
+Among the entered numbers there is a number greater than 5.
