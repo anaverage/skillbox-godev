@@ -1,0 +1,3 @@
+Write a program that will help the user determine which coordinate quarter the point belongs to. 
+The user enters the numbers X and H, and the program needs to output which coordinate quarter the point belongs to.
+Use logical multiplication.
