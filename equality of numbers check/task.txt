@@ -1,0 +1,4 @@
+The user may make a mistake when entering, and many programs try to draw attention to such errors. 
+For example, text editors highlight errors in words, spreadsheets — in formulas. 
+Implement a program that asks the user for three numbers and outputs a hint if two or more numbers match.
+Use logical addition.
