@@ -1,0 +1,12 @@
+Write a program that solves quadratic equations. The user enters the coefficients a, b and c of the quadratic equation. 
+The program should derive the roots of the equation. To solve the equation , it is necessary:
+
+Calculate the discriminant by the formula: D = (b × b − 4 × a × c)
+
+If D > 0, there will be two different roots that are found by the formula.
+If D = 0, there will be one root, which is found by the formula.
+If D < 0, then output that there are no roots.
+Use float64 type variables.
+
+To square use the math.Pow function.
+To calculate the square root, use the math.Sqrt function.
