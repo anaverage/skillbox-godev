@@ -1,0 +1,4 @@
+Checking user input for various constraints is a frequent task. 
+Ask the user to enter three numbers and check that at least one is positive. 
+The result of the check must be reported to the user.
+Use logical addition.
