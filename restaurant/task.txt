@@ -1,0 +1,18 @@
+Write a program that requests the day of the week, the number of guests and the amount of the check and calculates the amount to be paid. 
+The following rules apply in the restaurant:
+
+on Mondays, a 10% discount should be applied to all menus, because Monday is a hard day;
+on Fridays, if the amount of the check exceeds 10,000 rubles, an additional discount of 5% is included;
+if the number of guests in one company exceeds five people, a 10% service surcharge is automatically included.
+
+Example of how the program works:
+
+Enter the day of the week:
+5
+Enter the number of guests:
+7
+Enter the amount of the check:
+12000
+Discount on Fridays: 600
+Service allowance: 1200
+Amount to be paid: 12600
