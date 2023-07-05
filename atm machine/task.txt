@@ -1,0 +1,10 @@
+The ATM only issues banknotes with a face value of 100 rubles, and the maximum withdrawal amount is 100,000 rubles. 
+Write a program that checks the validity of the amount of funds entered by the user. 
+If the withdrawal amount is available, inform "The operation has been successfully completed", otherwise indicate the reason why it is impossible to perform the operation.
+
+Example of how the program works:
+
+Enter the withdrawal amount from the account:
+500
+The operation was successfully completed.
+You have withdrawn 500 rubles
