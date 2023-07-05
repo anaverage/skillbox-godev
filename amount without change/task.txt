@@ -1,0 +1,4 @@
+ATM software constantly solves the problem of how to generate the amount entered by the user with the available bills. 
+Try to solve a similar problem and determine whether the user will be able to pay for the product without change or not. 
+To do this, he will enter the cost of the goods and the denominations of three coins. 
+Check all scenarios when the amount can be formed by one coin, two or all three.
