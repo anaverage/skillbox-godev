@@ -1,0 +1,11 @@
+Write a program that asks the user for three numbers and outputs the number of numbers that are greater than or equal to five.
+
+Example of how the program works:
+
+Enter the first number:
+3
+Enter the second number:
+5
+Enter the third number:
+7
+Among the entered numbers, 2 are greater than or equal to 5
