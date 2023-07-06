@@ -1,0 +1,9 @@
+Write a program in which the user will enter a four-digit ticket number, and the program will output whether it is a mirror, lucky or ordinary ticket.
+
+When solving the problem, it is necessary to apply integer division and the remainder of the division. Examples of program output:
+
+1234 -> regular ticket
+
+3425 -> lucky ticket
+
+1221 -> mirror ticket
