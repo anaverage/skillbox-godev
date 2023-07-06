@@ -1,0 +1,1 @@
+Write a program that asks the user for two numbers and adds them in a cycle as follows: takes the first number and adds one to it until it reaches the sum of the two numbers.
