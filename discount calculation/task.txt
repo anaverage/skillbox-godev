@@ -1,0 +1,2 @@
+Write a program that accepts the entry price of the product and a discount. Calculate and return the discount amount to the screen. 
+The discount should be no more than 30% of the product price and no more than 2000 rubles.
