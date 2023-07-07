@@ -1,0 +1,15 @@
+One of the types of computer art is pseudo-graphics, when pictures are created from symbols. Try to output two images. 
+Ask the user for the size of the chessboard in cells and display the chessboard on the screen. 
+Print the white fields with an asterisk, and the black fields with a space.
+You can use fmt.Printf and fmt.Println.
+
+Example of how the program works:
+
+Enter width:
+5
+Enter height:
+4
+ * *
+* * *
+ * *
+* * *
