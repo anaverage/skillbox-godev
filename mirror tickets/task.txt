@@ -1,0 +1,8 @@
+Print out how many mirror tickets are among all six-digit numbers from 100000 to 999999.
+To mirror a number, use a loop.
+
+Example of how the program works:
+
+The number of mirror tickets among all six-digit numbers 
+from 100000 to 999999:
+900
