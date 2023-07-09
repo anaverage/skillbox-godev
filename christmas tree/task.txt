@@ -1,0 +1,16 @@
+Let's complicate the task of drawing: try to bring out a Christmas tree. 
+Print one asterisk in the first line, two more in the second, two more in the third, and so on up to the number of lines specified by the user.
+Rules for the output of the Christmas tree: it is symmetrical, the number of lines corresponds to the one entered by the user.
+It is necessary to print spaces first, and then asterisks. 
+See how the number of spaces and asterisks in each line is related to the number of lines entered and the number of the current line. 
+Inside the loop on the lines, most likely, two cycles will be needed: one for the output of spaces, the second for the output of asterisks.
+
+Example of how the program works:
+
+Enter the height of the Christmas tree:
+5
+     *
+    ***
+   *****
+  *******
+ *********
