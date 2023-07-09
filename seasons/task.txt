@@ -1,0 +1,14 @@
+The user enters a month, the program should output what time of year (winter, spring, summer, autumn) this month falls.
+
+How to group:
+
+December, January, February — winter;
+March, April, May — spring;
+June, July, August — summer;
+September, October, November — autumn.
+
+Example of how the program works:
+
+Enter the month:
+January
+The time of the year is winter.
