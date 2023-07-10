@@ -1,0 +1,6 @@
+Due to the peculiarities of storing fractional numbers, they are not very suitable for storing monetary values (a significant part may be lost when overflowing, and a fractional part of more than two characters is not needed). 
+But we will try to solve the problem of calculating interest using them. 
+Let the user enter the amount he puts in the bank, the monthly capitalization percentage and the number of years during which the deposit will be opened.
+It is necessary to recalculate the amount monthly, rounding it down to a whole number of kopecks. 
+For example, if after interest accrual the balance includes 35.78 kopecks, then we leave only 35 kopecks, and discard the fractional part. 
+At the end of the program, it is necessary to withdraw what amount the depositor will receive and what amount will be credited to the bank by rounding kopecks.
