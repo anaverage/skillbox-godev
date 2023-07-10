@@ -1,0 +1,18 @@
+Quite often, when transferring over a network or storing large amounts of data, you have to choose a type with a minimum memory size in order to save traffic or disk space. 
+Write a program in which the user enters two numbers (int16), and the program outputs the minimum data type in which the result of multiplying these numbers can be stored.
+Note that the positive result can be stored in a smaller type by using uint8, uint16. 
+To avoid problems with overflow during multiplication, read the numbers in int16, and before multiplying, translate them into int32.
+
+Check with examples:
+
+1 1 result of uint8
+
+1 -1 int8 result
+
+640 100 result uint16
+
+-640 100 int32 result
+
+3000 3000 result uint32
+
+-3000 3000 int32 result
