@@ -1,0 +1,10 @@
+The user enters the weekday of the week in abbreviated form (Mon, Tue, Wed, Thu, Fri) and receives a detailed list of all subsequent working days, including Friday.
+
+Example of how the program works:
+
+Enter the weekday of the week: Mon, Tue, Wed, Thu, Fri:
+Tue
+Tuesday
+Wednesday
+Thursday
+Friday
