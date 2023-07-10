@@ -1,0 +1,3 @@
+In this module, we looked at examples of integer types, their sizes in memory and what happens when it overflows. 
+Write a program that in a loop using built-in constants (for the limit values of integers, in the math package) will count how many overflows of numbers of type uint8, uint16 in the range from 0 to uint32. 
+To find the number of overflows, use a loop. Use the constants of the maximum values from the math package.
