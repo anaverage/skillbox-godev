@@ -1,0 +1,9 @@
+Write a program that calculates ex by decomposing into a Taylor series with a user-specified accuracy. 
+The user enters the value of x and with the precision to which decimal place it is necessary to calculate the value of the function.
+You can get the accuracy value (epsilon) by dividing 1 by 10, raised to a power equal to the number of decimal places.
+
+For x = 0 and n = 1, the output should be 1
+
+For x = 1 and n = 3, the output should be 2.7182539682539684
+
+For x = 1 and n = 5, the output should be 2.7182815255731922
