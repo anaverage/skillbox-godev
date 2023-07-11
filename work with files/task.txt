@@ -1,0 +1,5 @@
+Write a program that would receive a line entered by the user as input, and write the line number, date, and message in the format to the file:
+
+2020-02-10 15:00:00 I will sell the garage.
+
+When you enter the word exit, the program shuts down.
