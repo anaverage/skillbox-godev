@@ -1,0 +1,2 @@
+Write a program that creates a read-only text file and check that data cannot be written to it. 
+To check, create a file, set the read-only mode, close it, and then, after opening it, try to read data from it.
