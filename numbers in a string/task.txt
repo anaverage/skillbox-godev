@@ -1,0 +1,10 @@
+Write a program that outputs all the parts of the string
+a10 10 20b 20 30c30 30 dd
+that can be converted to a number in decimal format.
+
+Example of how the program works:
+
+Source string:
+a10 10 20b 20 30c30 30 dd
+The string contains numbers in decimal format:
+10 20 30
