@@ -1,0 +1,8 @@
+Write a program that outputs the number of words starting with a capital letter in a line: 
+Go is an Open source programming Language that makes it Easy to build simple, reliable, and efficient Software.
+
+Example of how the program works:
+
+Go is an Open source programming Language that makes it Easy 
+to build simple, reliable, and efficient Software
+The string contains 5 words with a capital letter.
