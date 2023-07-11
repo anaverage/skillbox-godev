@@ -1,0 +1,3 @@
+Write a program that reads and outputs to the console lines from a file created in previous practice, without using ioutil. 
+If the file is missing or empty, output the corresponding message to the console.
+To get the file size, use the Stat() method, which returns information about the file and an error.
